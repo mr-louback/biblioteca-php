@@ -1,0 +1,16 @@
+{
+    "name": "nei/html",
+    "autoload": {
+        "psr-4": {
+            "Nei\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nei"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
