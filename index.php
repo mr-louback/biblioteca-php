@@ -14,7 +14,7 @@
         <!-- barra com logo botao de login e de cadastro -->
         <nav class="navbar bg-dark border-bottom border-bottom-dark" data-bs-theme="dark">
             <div class="container-fluid">
-                <a class="navbar-brand">Ler <sup>Livra</sup></a>
+                <a class="navbar-brand">Ler<sup>.Livra</sup></a>
                 <form class="d-flex">
                     <div style="margin: 0px 5px;">
                         <a id="cad" class="btn btn-outline-success" type="submit">Cadastre-se</a>
@@ -75,7 +75,7 @@ if (!isset($_COOKIE['cookies_accepted'])) {
                 <div class="container modal-footer ">
 
                     <h1>Uso de Cookies</h1>
-                    <p>Este site utiliza cookies para melhorar a sua experiência. Por favor, leia nossa <a href="politica_cookies.php">Política de Cookies</a> para obter mais informações.</p>
+                    <p>Este site utiliza cookies para melhorar a sua experiência. Por favor, leia nossa <a target="_blank" href="politica_cookies.php">Política de Cookies</a> para obter mais informações.</p>
                     <form method="post" action="">
                         <button type="submit" name="accept_cookies" class="btn btn-primary">Aceitar</button>
                         <button type="submit" name="reject_cookies" class="btn btn-danger">Rejeitar</button>
