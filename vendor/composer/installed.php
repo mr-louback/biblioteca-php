@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'nei/html',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'adcc5e35a40514734289816fe8cba9871aebbfa7',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'nei/html' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'adcc5e35a40514734289816fe8cba9871aebbfa7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

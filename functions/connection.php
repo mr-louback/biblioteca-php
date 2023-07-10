@@ -1,8 +1,8 @@
 <?php
 function connection()
 {
-    // DOTENV
     require_once '../vendor/autoload.php';
+    // DOTENV
     $path = dirname(__FILE__, 2);
     $dotenv = Dotenv\Dotenv::createUnsafeImmutable($path);
     $dotenv->load();
