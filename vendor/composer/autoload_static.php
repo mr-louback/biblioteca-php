@@ -23,13 +23,13 @@ class ComposerStaticInite6f7e8cd935e1c6fad390cc7094752c6
         array (
             'PhpOption\\' => 10,
         ),
-        'N' => 
-        array (
-            'Nei\\Html\\' => 9,
-        ),
         'G' => 
         array (
             'GrahamCampbell\\ResultType\\' => 26,
+        ),
+        'E' => 
+        array (
+            'Ednei\\BibliotecaPhp\\' => 20,
         ),
         'D' => 
         array (
@@ -54,13 +54,13 @@ class ComposerStaticInite6f7e8cd935e1c6fad390cc7094752c6
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
         ),
-        'Nei\\Html\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
-        ),
         'GrahamCampbell\\ResultType\\' => 
         array (
             0 => __DIR__ . '/..' . '/graham-campbell/result-type/src',
+        ),
+        'Ednei\\BibliotecaPhp\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Dotenv\\' => 
         array (
