@@ -1,16 +1,15 @@
 {
-    "name": "nei/html",
+    "name": "ednei/biblioteca-php",
     "autoload": {
         "psr-4": {
-            "Nei\\Html\\": "src/"
+            "Ednei\\BibliotecaPhp\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "nei"
+            "name": "mr-louback",
+            "email": "loubacked4work@outlook.com"
         }
     ],
-    "require": {
-        "vlucas/phpdotenv": "^5.5"
-    }
+    "require": {}
 }
